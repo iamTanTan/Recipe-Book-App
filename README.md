@@ -1,4 +1,4 @@
-ing delete# Recipe Book App in SwiftUI
+# Recipe Book App in SwiftUI
 
 ---
 
@@ -15,7 +15,6 @@ This iOS application is designed to help address some of these common issues tha
 
 ## Design
 This project was designed with SwiftUI and Firebase
-
 
 ## My Experience
 It was a simple yet fulfilling process that showed the basics of the library and interacting with live data. 
